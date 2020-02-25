@@ -1,0 +1,62 @@
+header{
+	text-align:center;
+	background-color:lightBlue;
+	font-size:50px;
+	font-weight:bold;
+	
+
+	} 
+article{
+	background-color:;
+	} 
+
+	
+#div1{
+	background-color: cyan;
+	
+} 
+
+
+section{
+	background-color:
+	height:100%;
+	
+} 
+
+footer{
+	background-color: ;
+} 
+nav{
+	background-color:LightGray;
+	
+} 
+
+#green{
+	background-color: purple;
+} 
+
+#color{
+	background-color:cyan;
+	margin:2px;
+	} 
+	
+img{
+	width:300px;
+	height:250px;
+}
+
+.carousel-inner img{
+	width:95%;
+	height:80%;
+	text-align:center;
+}
+
+
+body {
+  background: lightblue no-repeat fixed center;
+}
+
+aside{
+	background-color:LightGray;
+	
+	} 
